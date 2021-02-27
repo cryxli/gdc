@@ -1,8 +1,10 @@
 
-.common { color: rgb(255, 255, 255); }
-.magic { color: rgb(242, 230, 26); }
-.rare { color: rgb(62, 234, 74); }
-.epic { color: rgb(51, 140, 206); }
-.legendary { color: rgb(166, 56, 255); }
+.common, .common:hover { color: rgb(255, 255, 255); }
+.magic, .magic:hover { color: rgb(242, 230, 26); }
+.rare, .rare:hover { color: rgb(62, 234, 74); }
+.epic, .epic:hover { color: rgb(51, 140, 206); }
+.legendary, .legendary:hover { color: rgb(166, 56, 255); }
 .common, .magic { text-shadow: 0px 0px 4px #000000; }
+
 a.common, a.magic, a.rare, a.epic, a.legendary { font-weight: bold; text-decoration: none; }
+a.common:hover, a.magic:hover, a.rare:hover, a.epic:hover, a.legendary:hover { text-decoration: underline; }
