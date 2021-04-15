@@ -70,6 +70,23 @@ var skillList = {
 	'SecondRite': {title: 'Second Rite', img: 'img/occultist/second_rite.png', url: 'https://grimdawn.fandom.com/wiki/Second_Rite_(Skill)'},
 	'AspectoftheGuardian': {title: 'Aspect of Guardian', img: 'img/occultist/aspect_of_guardian.png', url: 'https://grimdawn.fandom.com/wiki/Aspect_of_the_Guardian_(Skill)'},
 	'Possession': {title: 'Possession', img: 'img/occultist/possession.png', url: 'https://grimdawn.fandom.com/wiki/Possession_(Skill)'},
+	'Manipulation': {title: 'Manipulation', img: 'img/occultist/manipulation.png', url: 'https://grimdawn.fandom.com/wiki/Manipulation_(Skill)'},
+	'SummonFamiliar': {title: 'Summon Familiar', img: 'img/occultist/summon_familiar.png', url: 'https://grimdawn.fandom.com/wiki/Summon_Familiar_(Skill)'},
+	'SummonHellhound': {title: 'Summon Hellhound', img: 'img/occultist/summon_hellhound.png', url: 'https://grimdawn.fandom.com/wiki/Summon_Hellhound_(Skill)'},
+	'StormSpirit': {title: 'Storm Spirit', img: 'img/occultist/storm_spirit.png', url: 'https://grimdawn.fandom.com/wiki/Storm_Spirit_(Skill)'},
+	'Hellfire': {title: 'Hellfire', img: 'img/occultist/hellfire.png', url: 'https://grimdawn.fandom.com/wiki/Hellfire_(Skill)'},
+	'BondsofBysmiel': {title: 'Bonds of Bysmiel', img: 'img/occultist/bonds_of_bysmiel.png', url: 'https://grimdawn.fandom.com/wiki/Bonds_of_Bysmiel_(Skill)'},
+	
+	'RaiseSkeletons': {title: 'Raise Skeletons', img: 'img/necromancer/raise_skeletons.png', url: 'https://grimdawn.fandom.com/wiki/Raise_Skeletons_(Skill)'},
+	'SpectralBinding': {title: 'Spectral Binding', img: 'img/necromancer/spectral_binding.png', url: 'https://grimdawn.fandom.com/wiki/Spectral_Binding_(Skill)'},
+	'UndeadLegion': {title: 'Undead Legion', img: 'img/necromancer/undead_legion.png', url: 'https://grimdawn.fandom.com/wiki/Undead_Legion_(Skill)'},
+	'SummonBlightFiend': {title: 'Summon Blight Fiend', img: 'img/necromancer/summon_blight_fiend.png', url: 'https://grimdawn.fandom.com/wiki/Summon_Blight_Fiend_(Skill)'},
+	'SpectralWrath': {title: 'Spectral Wrath', img: 'img/necromancer/spectral_wrath.png', url: 'https://grimdawn.fandom.com/wiki/Spectral_Wrath_(Skill)'},
+	'WilloftheCrypt': {title: 'Will of the Crypt', img: 'img/necromancer/will_of_the_crypt.png', url: 'https://grimdawn.fandom.com/wiki/Will_of_the_Crypt_(Skill)'},
+	'RottingFumes': {title: 'Rotting Fumes', img: 'img/necromancer/rotting_fumes.png', url: 'https://grimdawn.fandom.com/wiki/Rotting_Fumes_(Skill)'},
+	'CalloftheGrave': {title: 'Call of the Grave', img: 'img/necromancer/call_of_the_grave.png', url: 'https://grimdawn.fandom.com/wiki/Call_of_the_Grave_(Skill)'},
+	'BlightBurst': {title: 'Blight Burst', img: 'img/necromancer/blight_burst.png', url: 'https://grimdawn.fandom.com/wiki/Blight_Burst_(Skill)'},
+	'MasterofDeath': {title: 'Master of Death', img: 'img/necromancer/master_of_death.png', url: 'https://grimdawn.fandom.com/wiki/Master_of_Death_(Skill)'},
 };
 
 var skillTriggerList = [].slice.call(document.querySelectorAll('skill'));
