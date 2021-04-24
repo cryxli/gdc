@@ -43,6 +43,8 @@ var skillList = {
 	'Flashbang': {title: 'Flashbang', img: 'img/demolitionist/flashbang.png', url: 'https://grimdawn.fandom.com/wiki/Flashbang_(Skill)'},
 	'SearingLight': {title: 'Searing Light', img: 'img/demolitionist/searing_light.png', url: 'https://grimdawn.fandom.com/wiki/Searing_Light_(Skill)'},
 	'Temper': {title: 'Temper', img: 'img/demolitionist/temper.png', url: 'https://grimdawn.fandom.com/wiki/Temper_(Skill)'},
+	'StaticStrike': {title: 'Static Strike', img: 'img/demolitionist/static_strike.png', url: 'https://grimdawn.fandom.com/wiki/Static_Strike_(Skill)'},
+	'Brimstone': {title: 'Brimstone', img: 'img/demolitionist/brimstone.png', url: 'https://grimdawn.fandom.com/wiki/Brimstone_(Skill)'},
 	
 	'BruteForce': {title: 'Brute Force', img: 'img/shaman/brute_force.png', url: 'https://grimdawn.fandom.com/wiki/Brute_Force_(Skill)'},
 	'DevouringSwarm': {title: 'Devouring Swarm', img: 'img/shaman/devouring_swarm.png', url: 'https://grimdawn.fandom.com/wiki/Devouring_Swarm_(Skill)'},
