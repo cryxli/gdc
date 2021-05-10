@@ -62,6 +62,11 @@ var skillList = {
 	'FeralHunger': {title: 'Feral Hunger', img: 'img/shaman/feral_hunger.png', url: 'https://grimdawn.fandom.com/wiki/Feral_Hunger_(Skill)'},
 	'TenacityoftheBoar': {title: 'Tenacity of the Boar', img: 'img/shaman/tenacity_of_the_boar.png', url: 'https://grimdawn.fandom.com/wiki/Tenacity_of_the_Boar_(Skill)'},
 	'StormTouched': {title: 'Storm Touched', img: 'img/shaman/storm_touched.png', url: 'https://grimdawn.fandom.com/wiki/Storm_Touched_(Skill)'},
+	'SummonBriarthorn': {title: 'Summon Briarthorn', img: 'img/shaman/summon_briarthorn.png', url: 'https://grimdawn.fandom.com/wiki/Summon_Briarthorn_(Skill)'},
+	'GroundSlam': {title: 'Ground Slam', img: 'img/shaman/ground_slam.png', url: 'https://grimdawn.fandom.com/wiki/Ground_Slam_(Skill)'},
+	'EmboldeningPresence': {title: 'Emboldening Presence', img: 'img/shaman/emboldening_presence.png', url: 'https://grimdawn.fandom.com/wiki/Emboldening_Presence_(Skill)'},
+	'ConjurePrimalSpirit': {title: 'Conjure Primal Spirit', img: 'img/shaman/conjure_primal_spirit.png', url: 'https://grimdawn.fandom.com/wiki/Conjure_Primal_Spirit_(Skill)'},
+	'PrimalBond': {title: 'Primal Bond', img: 'img/shaman/primal_bond.png', url: 'https://grimdawn.fandom.com/wiki/Primal_Bond_(Skill)'},
 	
 	'CurseofFrailty': {title: 'Curse of Frailty', img: 'img/occultist/curse_of_frailty.png', url: 'https://grimdawn.fandom.com/wiki/Curse_of_Frailty_(Skill)'},
 	'BloodyPox': {title: 'Bloody Pox', img: 'img/occultist/bloody_pox.png', url: 'https://grimdawn.fandom.com/wiki/Bloody_Pox_(Skill)'},
