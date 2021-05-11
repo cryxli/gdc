@@ -83,6 +83,10 @@ var skillList = {
 	'StormSpirit': {title: 'Storm Spirit', img: 'img/occultist/storm_spirit.png', url: 'https://grimdawn.fandom.com/wiki/Storm_Spirit_(Skill)'},
 	'Hellfire': {title: 'Hellfire', img: 'img/occultist/hellfire.png', url: 'https://grimdawn.fandom.com/wiki/Hellfire_(Skill)'},
 	'BondsofBysmiel': {title: 'Bonds of Bysmiel', img: 'img/occultist/bonds_of_bysmiel.png', url: 'https://grimdawn.fandom.com/wiki/Bonds_of_Bysmiel_(Skill)'},
+	'DoomBolt': {title: 'Doom Bolt', img: 'img/occultist/doom_bolt.png', url: 'https://grimdawn.fandom.com/wiki/Doom_Bolt_(Skill)'},
+	'DreegsEvilEye': {title: "Dreeg's Evil Eye", img: 'img/occultist/dreeg_s_evil_eye.png', url: "https://grimdawn.fandom.com/wiki/Dreeg's_Evil_Eye_(Skill)"},
+	'BloodBurst': {titile: 'Blood Burst', img: 'img/occultist/blood_burst.png', url: 'https://grimdawn.fandom.com/wiki/Blood_Burst_(Skill)'},
+	'FocusedGaze': {title: 'Focused Gaze', img: 'img/occultist/focused_gaze.png', url: 'https://grimdawn.fandom.com/wiki/Focused_Gaze_(Skill)'},
 	
 	'RaiseSkeletons': {title: 'Raise Skeletons', img: 'img/necromancer/raise_skeletons.png', url: 'https://grimdawn.fandom.com/wiki/Raise_Skeletons_(Skill)'},
 	'SpectralBinding': {title: 'Spectral Binding', img: 'img/necromancer/spectral_binding.png', url: 'https://grimdawn.fandom.com/wiki/Spectral_Binding_(Skill)'},
