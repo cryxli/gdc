@@ -67,6 +67,8 @@ var skillList = {
 	'EmboldeningPresence': {title: 'Emboldening Presence', img: 'img/shaman/emboldening_presence.png', url: 'https://grimdawn.fandom.com/wiki/Emboldening_Presence_(Skill)'},
 	'ConjurePrimalSpirit': {title: 'Conjure Primal Spirit', img: 'img/shaman/conjure_primal_spirit.png', url: 'https://grimdawn.fandom.com/wiki/Conjure_Primal_Spirit_(Skill)'},
 	'PrimalBond': {title: 'Primal Bond', img: 'img/shaman/primal_bond.png', url: 'https://grimdawn.fandom.com/wiki/Primal_Bond_(Skill)'},
+	'WindDevil': {title: 'Wind Devil', img: 'img/shaman/wind_devil.png', url: 'https://grimdawn.fandom.com/wiki/Wind_Devil_(Skill)'},
+	'RagingTempest': {title: 'Raging Tempest', img: 'img/shaman/raging_tempest.png', url: 'https://grimdawn.fandom.com/wiki/Raging_Tempest_(Skill)'},
 	
 	'CurseofFrailty': {title: 'Curse of Frailty', img: 'img/occultist/curse_of_frailty.png', url: 'https://grimdawn.fandom.com/wiki/Curse_of_Frailty_(Skill)'},
 	'BloodyPox': {title: 'Bloody Pox', img: 'img/occultist/bloody_pox.png', url: 'https://grimdawn.fandom.com/wiki/Bloody_Pox_(Skill)'},
