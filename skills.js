@@ -13,6 +13,13 @@ var skillList = {
 	'Vigor': {title: 'Vigor', img: 'img/inquisitor/vigor.png', url: 'https://grimdawn.fandom.com/wiki/Vigor_(Skill)'},
 	'Ignition': {title: 'Ignition', img: 'img/inquisitor/ignition.png', url: 'https://grimdawn.fandom.com/wiki/Ignition_(Skill)'},
 	'AuraofCenture': {title: 'Aura of Censure', img: 'img/inquisitor/aura_of_censure.png', url: 'https://grimdawn.fandom.com/wiki/Aura_of_Censure_(Skill)'},
+	'StormBoxofElgoloth': {title: 'Storm Box of Elgoloth', img: 'img/inquisitor/storm_box_of_elgoloth.png', url: 'https://grimdawn.fandom.com/wiki/Storm_Box_of_Elgoloth_(Skill)'},
+	'RuneofHagarrad': {title: 'Rune of Hagarrad', img: 'img/inquisitor/rune_of_hagarrad.png', url: 'https://grimdawn.fandom.com/wiki/Rune_of_Hagarrad_(Skill)'},
+	'BitingCold': {title: 'Biting Cold', img: 'img/inquisitor/biting_cold.png', url: 'https://grimdawn.fandom.com/wiki/Biting_Cold_(Skill)'},
+	'LightningTether': {title: 'Lightning Tether', img: 'img/inquisitor/lightning_tether.png', url: 'https://grimdawn.fandom.com/wiki/Lightning_Tether_(Skill)'},
+	'Chillsurge': {title: 'Chillsurge', img: 'img/inquisitor/chillsurge.png', url: 'https://grimdawn.fandom.com/wiki/Chillsurge_(Skill)'},
+	'ArtifactHandling': {title: 'Artifact Handling', img: 'img/inquisitor/artifact_handling.png', url: 'https://grimdawn.fandom.com/wiki/Artifact_Handling_(Skill)'},
+	'AuraofCensure': {title: 'Aura of Censure', img: 'img/inquisitor/aura_of_censure.png', url: 'https://grimdawn.fandom.com/wiki/Aura_of_Censure_(Skill)'},
 
 	'MarkoviansAdvantage': {title: 'Markovian’s Advantage', img: 'img/soldier/markovian_s_advantage.png', url: "https://grimdawn.fandom.com/wiki/Markovian's_Advantage_(Skill)"},
 	'FieldCommand': {title: 'Field Command', img: 'img/soldier/field_command.png', url: 'https://grimdawn.fandom.com/wiki/Field_Command_(Skill)'},	
@@ -45,6 +52,7 @@ var skillList = {
 	'Temper': {title: 'Temper', img: 'img/demolitionist/temper.png', url: 'https://grimdawn.fandom.com/wiki/Temper_(Skill)'},
 	'StaticStrike': {title: 'Static Strike', img: 'img/demolitionist/static_strike.png', url: 'https://grimdawn.fandom.com/wiki/Static_Strike_(Skill)'},
 	'Brimstone': {title: 'Brimstone', img: 'img/demolitionist/brimstone.png', url: 'https://grimdawn.fandom.com/wiki/Brimstone_(Skill)'},
+	'CanisterBomb': {title: 'Canister Bomb', img: 'img/demolitionist/canister_bomb.png', url: 'https://grimdawn.fandom.com/wiki/Canister_Bomb_(Skill)'},
 	
 	'BruteForce': {title: 'Brute Force', img: 'img/shaman/brute_force.png', url: 'https://grimdawn.fandom.com/wiki/Brute_Force_(Skill)'},
 	'DevouringSwarm': {title: 'Devouring Swarm', img: 'img/shaman/devouring_swarm.png', url: 'https://grimdawn.fandom.com/wiki/Devouring_Swarm_(Skill)'},
@@ -69,6 +77,7 @@ var skillList = {
 	'PrimalBond': {title: 'Primal Bond', img: 'img/shaman/primal_bond.png', url: 'https://grimdawn.fandom.com/wiki/Primal_Bond_(Skill)'},
 	'WindDevil': {title: 'Wind Devil', img: 'img/shaman/wind_devil.png', url: 'https://grimdawn.fandom.com/wiki/Wind_Devil_(Skill)'},
 	'RagingTempest': {title: 'Raging Tempest', img: 'img/shaman/raging_tempest.png', url: 'https://grimdawn.fandom.com/wiki/Raging_Tempest_(Skill)'},
+	'Maelstrom': {title: 'Maelstrom', img: 'img/shaman/maelstrom.png', url: 'https://grimdawn.fandom.com/wiki/Maelstrom_(Skill)'},
 	
 	'CurseofFrailty': {title: 'Curse of Frailty', img: 'img/occultist/curse_of_frailty.png', url: 'https://grimdawn.fandom.com/wiki/Curse_of_Frailty_(Skill)'},
 	'BloodyPox': {title: 'Bloody Pox', img: 'img/occultist/bloody_pox.png', url: 'https://grimdawn.fandom.com/wiki/Bloody_Pox_(Skill)'},
