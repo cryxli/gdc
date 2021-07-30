@@ -129,6 +129,11 @@ var skillList = {
 	'ElementalAwakening': {title: 'Elemental Awakening', img: 'img/nightblade/elemental_awakening.png', url: 'https://grimdawn.fandom.com/wiki/Elemental_Awakening_(Skill)'},
 	'MercilessRepertoire': {title: 'Merciless Repertoire', img: 'img/nightblade/merciless_repertoire.png', url: 'https://grimdawn.fandom.com/wiki/Merciless_Repertoire_(Skill)'},
 	'Execution': {title: 'Execution', img: 'img/nightblade/execution.png', url: 'https://grimdawn.fandom.com/wiki/Execution_(Skill)'},
+	'BladeSpirit': {title: 'Blade Spirit', img: 'img/nightblade/blade_spirit.png', url: 'https://grimdawn.fandom.com/wiki/Blade_Spirit_(Skill)'},
+	'BreathofBelgothian': {title: 'Breath of Belgothian', img: 'img/nightblade/breath_of_belgothian.png', url: 'https://grimdawn.fandom.com/wiki/Breath_of_Belgothian_(Skill)'},
+	'RingofFrost': {title: 'Ring of Frost', img: 'img/nightblade/ring_of_frost.png', url: 'https://grimdawn.fandom.com/wiki/Ring_of_Frost_(Skill)'},
+	'CircleofSlaughter': {title: 'Circle of Slaughter', img: 'img/nightblade/circle_of_slaughter.png', url: 'https://grimdawn.fandom.com/wiki/Circle_of_Slaughter_(Skill)'},
+	'Nighfall': {title: 'Nighfall', img: 'img/nightblade/nightfall.png', url: 'https://grimdawn.fandom.com/wiki/Nightfall_(Skill)'},
 	
 	'RighteousFervor': {title: 'Righteous Fervor', img: 'img/oathkeeper/righteous_fervor.png', url: 'https://grimdawn.fandom.com/wiki/Righteous_Fervor_(Skill)'},
 	'DreegsReproach': {title: "Dreeg's Reproach", img: 'img/oathkeeper/transmuters.png', url: "https://grimdawn.fandom.com/wiki/Dreeg's_Reproach_(Skill)"},
