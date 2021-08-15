@@ -9,7 +9,8 @@
 a.common, a.magic, a.rare, a.epic, a.legendary { font-weight: bold; text-decoration: none; }
 a.common:hover, a.magic:hover, a.rare:hover, a.epic:hover, a.legendary:hover { text-decoration: underline; }
 
-.devotion .green { color: #00bb00; }
-.devotion .purple { color: #bb00bb; }
-.devotion .blue { color: #0000bb; }
-.devotion .red { color: #bb0000; }
+.devotion .green { color: #00bb00; } /* Eldritch, 7 o'clock) */
+.devotion .purple { color: #bb00bb; } /* Ascendant, 4 o'clock */
+.devotion .blue { color: #0000bb; } /* Primordial, 12 o'clock */
+.devotion .red { color: #bb0000; } /* Chaos, 10 o'clock */
+.devotion .yellow { color: #bbbb00; } /* Order, 2 o'clock */
